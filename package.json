@@ -20,7 +20,7 @@
     "graphql-tag": "^2.10.3",
     "isomorphic-fetch": "^2.2.1",
     "next": "^9.2.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "webpack": "^4.41.5"
